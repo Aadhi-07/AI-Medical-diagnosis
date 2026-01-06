@@ -1,4 +1,4 @@
-# 🫁 AI-Based Pneumonia Diagnosis System
+#  AI-Based Pneumonia Diagnosis System
 
 An **AI-powered medical diagnosis system** that detects **Pneumonia from chest X-ray images** using **Deep Learning and Transfer Learning**.  
 The trained model is deployed using **Gradio**, allowing users to upload X-ray images and receive instant predictions.
