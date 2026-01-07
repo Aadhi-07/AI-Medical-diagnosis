@@ -40,6 +40,7 @@ Classes:
 - `0` → Normal  
 - `1` → Pneumonia  
 
+
 Images are resized to **224×224** and converted to **RGB** before training.
 
 ---
