@@ -72,3 +72,4 @@ Real-time prediction via web interface
 ⚠️ Disclaimer
 
 It should not be used for real medical diagnosis.
+.
