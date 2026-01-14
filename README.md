@@ -73,6 +73,4 @@ Real-time prediction via web interface
 
 It should not be used for real medical diagnosis.
  
-```
-mm
-```
+
